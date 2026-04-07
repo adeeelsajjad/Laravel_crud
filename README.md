@@ -1,4 +1,4 @@
-##🎓 Student Data CRUD Application
+## 🎓 Student Data CRUD Application
 A simple yet powerful Student Management System built with Laravel that demonstrates full CRUD (Create, Read, Update, Delete) functionality. This project is designed for learning and practicing Laravel fundamentals with a clean UI.
 
 📖 Table of Contents
