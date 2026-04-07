@@ -180,8 +180,8 @@ This project is licensed under the **MIT License**.
 
 **Adeel Sajjad**
 
-* GitHub: [https://github.com/huzaifakhalid07](https://github.com/adeeelsajjad)
-* Project Repo: [https://github.com/huzaifakhalid07/Laravel_crud](https://github.com/adeeelsajjad/Laravel_crud)
+* GitHub: [https://github.com/adeeelsajjad](https://github.com/adeeelsajjad)
+* Project Repo: [https://github.com/adeeelsajjad/Laravel_crud](https://github.com/adeeelsajjad/Laravel_crud)
 
 ---
 
