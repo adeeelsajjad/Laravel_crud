@@ -178,10 +178,10 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Huzaifa Khalid**
+**Adeel Sajjad**
 
-* GitHub: [https://github.com/huzaifakhalid07](https://github.com/huzaifakhalid07)
-* Project Repo: [https://github.com/huzaifakhalid07/Laravel_crud](https://github.com/huzaifakhalid07/Laravel_crud)
+* GitHub: [https://github.com/huzaifakhalid07](https://github.com/adeeelsajjad)
+* Project Repo: [https://github.com/huzaifakhalid07/Laravel_crud](https://github.com/adeeelsajjad/Laravel_crud)
 
 ---
 
